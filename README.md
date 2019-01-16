@@ -1,4 +1,4 @@
-# s1nn.github.io
+# some1namednate.github.io
 My github.io website
 
 This is me represented by a website (kinda).
